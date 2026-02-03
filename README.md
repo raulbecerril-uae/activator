@@ -1,6 +1,4 @@
-<p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
-
-<h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
+<h1 align="center">Microsoft  Activation  Scripts (MAS ORIGINAL : https://massgrave.dev )</h1>
 
 <p align="center">Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.</p>
 
@@ -8,7 +6,7 @@
   
 ## How to Activate Windows / Office / Extended Security Updates (ESU)?
 
-### Method 1 - PowerShell ❤️
+### Method 1 - PowerShell 
 
 1. Click the **Start Menu**, type `PowerShell`, and open it.
 
@@ -82,3 +80,4 @@
 
 Latest Version: 3.10  
 Release date: 28-Jan-2026
+
