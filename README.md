@@ -1,5 +1,5 @@
 <h1 align="center">Microsoft  Activation  Scripts</h1> 
-<h2 CREDITS TO ORIGINAL : https://massgrave.dev )</h2>
+<h2>  CREDITS TO ORIGINAL : https://massgrave.dev )</h2>
 
 <p align="center">Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.</p>
 
@@ -81,5 +81,6 @@
 
 Latest Version: 3.10  
 Release date: 28-Jan-2026
+
 
 
